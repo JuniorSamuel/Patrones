@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using Observadores;
 
+//Creado por Junior Samuel De Los Santos Velazquez
+//matricula: 2019-8756 
 namespace Observados
 {
     public class PublicarTarea : IObservable

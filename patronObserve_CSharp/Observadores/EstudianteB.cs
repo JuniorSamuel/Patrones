@@ -1,5 +1,8 @@
 using System;
 
+//Creado por Junior Samuel De Los Santos Velazquez
+//matricula: 2019-8756 
+
 namespace Observadores
 {
     //Los observadores debe implementar la interfaz IObservador.

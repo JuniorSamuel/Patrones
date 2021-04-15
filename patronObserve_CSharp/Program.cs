@@ -2,6 +2,8 @@
 using Observadores;
 using Observados;
 
+//Creado por Junior Samuel De Los Santos Velazquez
+//matricula: 2019-8756 
 namespace patronObserve_CSharp
 {
     class Program
