@@ -1,0 +1,4 @@
+En este ejemplo sobre el diseño Factory Method (Fabrica)
+
+    Como ejemplo cree  un programa sencillo, donde a traves de un objetos crear (fabrica),
+    creamos diferentes tipos de usuarios (basico, premium, administrador)

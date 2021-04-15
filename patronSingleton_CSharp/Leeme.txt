@@ -1,0 +1,6 @@
+En este ejemplo sobre el diseño singleton (Único)
+
+    En el ejemplo creamos un objeto hoja y solo puede crearse un unico objetos de esta clase 
+    el objeto hoja tiene un atributo linea que permite informan.
+
+    ejemplo busca implementar como funciona este patro de diseño.

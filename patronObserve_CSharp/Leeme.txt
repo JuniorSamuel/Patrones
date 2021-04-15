@@ -1,0 +1,4 @@
+En este ejemplo sobre el diseño Observe (Observador)
+
+    Para implementar el ejemplo se creo un programa que notificara a todos los estudiante
+    registrador cuando se publique nuevas tareas.
